@@ -1,0 +1,1633 @@
+experiment,filename,true_label,times_tested,times_correct,accuracy
+Exp1_XGB_baseline,Train1.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train10.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train100.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train101.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train102.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train103.csv,Side II,3,1,0.3333333333333333
+Exp1_XGB_baseline,Train104.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train105.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train106.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train107.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train108.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train109.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train11.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train110.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train111.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train112.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train113.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train114.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train115.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train116.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train117.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train118.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train119.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train12.csv,Side II,3,2,0.6666666666666666
+Exp1_XGB_baseline,Train120.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train121.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train122.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train123.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train124.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train125.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train126.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train127.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train128.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train129.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train13.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train130.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train131.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train132.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train133.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train134.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train135.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train136.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train137.csv,Side I,3,1,0.3333333333333333
+Exp1_XGB_baseline,Train138.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train139.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train14.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train140.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train141.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train142.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train143.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train144.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train145.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train146.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train147.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train148.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train149.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train15.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train150.csv,Side I,3,2,0.6666666666666666
+Exp1_XGB_baseline,Train151.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train152.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train153.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train154.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train155.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train156.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train157.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train158.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train159.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train16.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train160.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train161.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train162.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train163.csv,Side I,3,3,1.0
+Exp1_XGB_baseline,Train164.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train165.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train166.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train167.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train168.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train169.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train17.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train170.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train171.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train172.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train173.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train174.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train175.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train176.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train177.csv,Normal,3,0,0.0
+Exp1_XGB_baseline,Train178.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train179.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train18.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train180.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train181.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train182.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train183.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train184.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train185.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train186.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train187.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train188.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train189.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train19.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train190.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train191.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train192.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train193.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train194.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train195.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train196.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train197.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train198.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train199.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train2.csv,Side II,3,1,0.3333333333333333
+Exp1_XGB_baseline,Train20.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train200.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train201.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train202.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train203.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train204.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train205.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train206.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train207.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train208.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train209.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train21.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train210.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train211.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train212.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train213.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train214.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train215.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train216.csv,Side II,3,0,0.0
+Exp1_XGB_baseline,Train217.csv,Side II,3,0,0.0
+Exp1_XGB_baseline,Train218.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train219.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train22.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train220.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train221.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train222.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train223.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train224.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train225.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train226.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train227.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train228.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train229.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train23.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train230.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train231.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train232.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train233.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train234.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train235.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train236.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train237.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train238.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train239.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train24.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train240.csv,Side II,3,1,0.3333333333333333
+Exp1_XGB_baseline,Train241.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train242.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train243.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train244.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train245.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train246.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train247.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train248.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train249.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train25.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train250.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train251.csv,Normal,3,0,0.0
+Exp1_XGB_baseline,Train252.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train253.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train254.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train255.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train256.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train257.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train258.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train259.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train26.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train260.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train261.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train262.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train263.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train264.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train265.csv,Side II,3,0,0.0
+Exp1_XGB_baseline,Train266.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train267.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train268.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train269.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train27.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train270.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train271.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train272.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train28.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train29.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train3.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train30.csv,Side II,3,1,0.3333333333333333
+Exp1_XGB_baseline,Train31.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train32.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train33.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train34.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train35.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train36.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train37.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train38.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train39.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train4.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train40.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train41.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train42.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train43.csv,Side II,3,2,0.6666666666666666
+Exp1_XGB_baseline,Train44.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train45.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train46.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train47.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train48.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train49.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train5.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train50.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train51.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train52.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train53.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train54.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train55.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train56.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train57.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train58.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train59.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train6.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train60.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train61.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train62.csv,Side I,3,0,0.0
+Exp1_XGB_baseline,Train63.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train64.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train65.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train66.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train67.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train68.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train69.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train7.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train70.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train71.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train72.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train73.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train74.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train75.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train76.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train77.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train78.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train79.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train8.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train80.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train81.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train82.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train83.csv,Side I,3,1,0.3333333333333333
+Exp1_XGB_baseline,Train84.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train85.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train86.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train87.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train88.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train89.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train9.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train90.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train91.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train92.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train93.csv,Side II,3,3,1.0
+Exp1_XGB_baseline,Train94.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train95.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train96.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train97.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train98.csv,Normal,3,3,1.0
+Exp1_XGB_baseline,Train99.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train1.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train10.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train100.csv,Side I,3,0,0.0
+Exp2_XGB_sample_weighted,Train101.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train102.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train103.csv,Side II,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train104.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train105.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train106.csv,Side I,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train107.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train108.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train109.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train11.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train110.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train111.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train112.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train113.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train114.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train115.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train116.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train117.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train118.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train119.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train12.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train120.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train121.csv,Side I,3,1,0.3333333333333333
+Exp2_XGB_sample_weighted,Train122.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train123.csv,Normal,3,1,0.3333333333333333
+Exp2_XGB_sample_weighted,Train124.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train125.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train126.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train127.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train128.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train129.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train13.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train130.csv,Normal,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train131.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train132.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train133.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train134.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train135.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train136.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train137.csv,Side I,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train138.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train139.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train14.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train140.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train141.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train142.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train143.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train144.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train145.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train146.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train147.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train148.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train149.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train15.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train150.csv,Side I,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train151.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train152.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train153.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train154.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train155.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train156.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train157.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train158.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train159.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train16.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train160.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train161.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train162.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train163.csv,Side I,3,3,1.0
+Exp2_XGB_sample_weighted,Train164.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train165.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train166.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train167.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train168.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train169.csv,Normal,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train17.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train170.csv,Side I,3,0,0.0
+Exp2_XGB_sample_weighted,Train171.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train172.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train173.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train174.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train175.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train176.csv,Normal,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train177.csv,Normal,3,0,0.0
+Exp2_XGB_sample_weighted,Train178.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train179.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train18.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train180.csv,Side I,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train181.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train182.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train183.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train184.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train185.csv,Side I,3,0,0.0
+Exp2_XGB_sample_weighted,Train186.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train187.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train188.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train189.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train19.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train190.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train191.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train192.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train193.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train194.csv,Side I,3,1,0.3333333333333333
+Exp2_XGB_sample_weighted,Train195.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train196.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train197.csv,Normal,3,1,0.3333333333333333
+Exp2_XGB_sample_weighted,Train198.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train199.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train2.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train20.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train200.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train201.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train202.csv,Side I,3,0,0.0
+Exp2_XGB_sample_weighted,Train203.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train204.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train205.csv,Normal,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train206.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train207.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train208.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train209.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train21.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train210.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train211.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train212.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train213.csv,Side I,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train214.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train215.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train216.csv,Side II,3,0,0.0
+Exp2_XGB_sample_weighted,Train217.csv,Side II,3,0,0.0
+Exp2_XGB_sample_weighted,Train218.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train219.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train22.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train220.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train221.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train222.csv,Normal,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train223.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train224.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train225.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train226.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train227.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train228.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train229.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train23.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train230.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train231.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train232.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train233.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train234.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train235.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train236.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train237.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train238.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train239.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train24.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train240.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train241.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train242.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train243.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train244.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train245.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train246.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train247.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train248.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train249.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train25.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train250.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train251.csv,Normal,3,0,0.0
+Exp2_XGB_sample_weighted,Train252.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train253.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train254.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train255.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train256.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train257.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train258.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train259.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train26.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train260.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train261.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train262.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train263.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train264.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train265.csv,Side II,3,0,0.0
+Exp2_XGB_sample_weighted,Train266.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train267.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train268.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train269.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train27.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train270.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train271.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train272.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train28.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train29.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train3.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train30.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train31.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train32.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train33.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train34.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train35.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train36.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train37.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train38.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train39.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train4.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train40.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train41.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train42.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train43.csv,Side II,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train44.csv,Normal,3,2,0.6666666666666666
+Exp2_XGB_sample_weighted,Train45.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train46.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train47.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train48.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train49.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train5.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train50.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train51.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train52.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train53.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train54.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train55.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train56.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train57.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train58.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train59.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train6.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train60.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train61.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train62.csv,Side I,3,1,0.3333333333333333
+Exp2_XGB_sample_weighted,Train63.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train64.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train65.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train66.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train67.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train68.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train69.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train7.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train70.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train71.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train72.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train73.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train74.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train75.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train76.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train77.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train78.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train79.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train8.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train80.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train81.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train82.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train83.csv,Side I,3,3,1.0
+Exp2_XGB_sample_weighted,Train84.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train85.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train86.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train87.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train88.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train89.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train9.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train90.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train91.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train92.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train93.csv,Side II,3,3,1.0
+Exp2_XGB_sample_weighted,Train94.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train95.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train96.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train97.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train98.csv,Normal,3,3,1.0
+Exp2_XGB_sample_weighted,Train99.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train1.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train10.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train100.csv,Side I,3,0,0.0
+Exp3_XGB_enhanced_features,Train101.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train102.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train103.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train104.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train105.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train106.csv,Side I,3,1,0.3333333333333333
+Exp3_XGB_enhanced_features,Train107.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train108.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train109.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train11.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train110.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train111.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train112.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train113.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train114.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train115.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train116.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train117.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train118.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train119.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train12.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train120.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train121.csv,Side I,3,1,0.3333333333333333
+Exp3_XGB_enhanced_features,Train122.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train123.csv,Normal,3,1,0.3333333333333333
+Exp3_XGB_enhanced_features,Train124.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train125.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train126.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train127.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train128.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train129.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train13.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train130.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train131.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train132.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train133.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train134.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train135.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train136.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train137.csv,Side I,3,3,1.0
+Exp3_XGB_enhanced_features,Train138.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train139.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train14.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train140.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train141.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train142.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train143.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train144.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train145.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train146.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train147.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train148.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train149.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train15.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train150.csv,Side I,3,2,0.6666666666666666
+Exp3_XGB_enhanced_features,Train151.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train152.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train153.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train154.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train155.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train156.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train157.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train158.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train159.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train16.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train160.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train161.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train162.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train163.csv,Side I,3,3,1.0
+Exp3_XGB_enhanced_features,Train164.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train165.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train166.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train167.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train168.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train169.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train17.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train170.csv,Side I,3,0,0.0
+Exp3_XGB_enhanced_features,Train171.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train172.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train173.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train174.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train175.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train176.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train177.csv,Normal,3,0,0.0
+Exp3_XGB_enhanced_features,Train178.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train179.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train18.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train180.csv,Side I,3,2,0.6666666666666666
+Exp3_XGB_enhanced_features,Train181.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train182.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train183.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train184.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train185.csv,Side I,3,0,0.0
+Exp3_XGB_enhanced_features,Train186.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train187.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train188.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train189.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train19.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train190.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train191.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train192.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train193.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train194.csv,Side I,3,2,0.6666666666666666
+Exp3_XGB_enhanced_features,Train195.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train196.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train197.csv,Normal,3,1,0.3333333333333333
+Exp3_XGB_enhanced_features,Train198.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train199.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train2.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train20.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train200.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train201.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train202.csv,Side I,3,0,0.0
+Exp3_XGB_enhanced_features,Train203.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train204.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train205.csv,Normal,3,2,0.6666666666666666
+Exp3_XGB_enhanced_features,Train206.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train207.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train208.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train209.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train21.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train210.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train211.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train212.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train213.csv,Side I,3,3,1.0
+Exp3_XGB_enhanced_features,Train214.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train215.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train216.csv,Side II,3,1,0.3333333333333333
+Exp3_XGB_enhanced_features,Train217.csv,Side II,3,0,0.0
+Exp3_XGB_enhanced_features,Train218.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train219.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train22.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train220.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train221.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train222.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train223.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train224.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train225.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train226.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train227.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train228.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train229.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train23.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train230.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train231.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train232.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train233.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train234.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train235.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train236.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train237.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train238.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train239.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train24.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train240.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train241.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train242.csv,Normal,3,2,0.6666666666666666
+Exp3_XGB_enhanced_features,Train243.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train244.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train245.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train246.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train247.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train248.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train249.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train25.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train250.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train251.csv,Normal,3,0,0.0
+Exp3_XGB_enhanced_features,Train252.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train253.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train254.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train255.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train256.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train257.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train258.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train259.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train26.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train260.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train261.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train262.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train263.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train264.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train265.csv,Side II,3,0,0.0
+Exp3_XGB_enhanced_features,Train266.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train267.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train268.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train269.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train27.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train270.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train271.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train272.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train28.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train29.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train3.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train30.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train31.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train32.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train33.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train34.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train35.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train36.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train37.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train38.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train39.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train4.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train40.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train41.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train42.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train43.csv,Side II,3,2,0.6666666666666666
+Exp3_XGB_enhanced_features,Train44.csv,Normal,3,2,0.6666666666666666
+Exp3_XGB_enhanced_features,Train45.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train46.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train47.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train48.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train49.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train5.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train50.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train51.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train52.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train53.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train54.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train55.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train56.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train57.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train58.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train59.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train6.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train60.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train61.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train62.csv,Side I,3,1,0.3333333333333333
+Exp3_XGB_enhanced_features,Train63.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train64.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train65.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train66.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train67.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train68.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train69.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train7.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train70.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train71.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train72.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train73.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train74.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train75.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train76.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train77.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train78.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train79.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train8.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train80.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train81.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train82.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train83.csv,Side I,3,3,1.0
+Exp3_XGB_enhanced_features,Train84.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train85.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train86.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train87.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train88.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train89.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train9.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train90.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train91.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train92.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train93.csv,Side II,3,3,1.0
+Exp3_XGB_enhanced_features,Train94.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train95.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train96.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train97.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train98.csv,Normal,3,3,1.0
+Exp3_XGB_enhanced_features,Train99.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train1.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train10.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train100.csv,Side I,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train101.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train102.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train103.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train104.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train105.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train106.csv,Side I,3,2,0.6666666666666666
+Exp4_XGB_bilateral_augmented,Train107.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train108.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train109.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train11.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train110.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train111.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train112.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train113.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train114.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train115.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train116.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train117.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train118.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train119.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train12.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train120.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train121.csv,Side I,3,1,0.3333333333333333
+Exp4_XGB_bilateral_augmented,Train122.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train123.csv,Normal,3,2,0.6666666666666666
+Exp4_XGB_bilateral_augmented,Train124.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train125.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train126.csv,Normal,3,1,0.3333333333333333
+Exp4_XGB_bilateral_augmented,Train127.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train128.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train129.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train13.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train130.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train131.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train132.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train133.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train134.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train135.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train136.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train137.csv,Side I,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train138.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train139.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train14.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train140.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train141.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train142.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train143.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train144.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train145.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train146.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train147.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train148.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train149.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train15.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train150.csv,Side I,3,1,0.3333333333333333
+Exp4_XGB_bilateral_augmented,Train151.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train152.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train153.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train154.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train155.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train156.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train157.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train158.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train159.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train16.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train160.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train161.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train162.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train163.csv,Side I,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train164.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train165.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train166.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train167.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train168.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train169.csv,Normal,3,2,0.6666666666666666
+Exp4_XGB_bilateral_augmented,Train17.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train170.csv,Side I,3,2,0.6666666666666666
+Exp4_XGB_bilateral_augmented,Train171.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train172.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train173.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train174.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train175.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train176.csv,Normal,3,1,0.3333333333333333
+Exp4_XGB_bilateral_augmented,Train177.csv,Normal,3,0,0.0
+Exp4_XGB_bilateral_augmented,Train178.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train179.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train18.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train180.csv,Side I,3,0,0.0
+Exp4_XGB_bilateral_augmented,Train181.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train182.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train183.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train184.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train185.csv,Side I,3,0,0.0
+Exp4_XGB_bilateral_augmented,Train186.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train187.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train188.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train189.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train19.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train190.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train191.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train192.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train193.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train194.csv,Side I,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train195.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train196.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train197.csv,Normal,3,0,0.0
+Exp4_XGB_bilateral_augmented,Train198.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train199.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train2.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train20.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train200.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train201.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train202.csv,Side I,3,2,0.6666666666666666
+Exp4_XGB_bilateral_augmented,Train203.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train204.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train205.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train206.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train207.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train208.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train209.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train21.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train210.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train211.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train212.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train213.csv,Side I,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train214.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train215.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train216.csv,Side II,3,0,0.0
+Exp4_XGB_bilateral_augmented,Train217.csv,Side II,3,2,0.6666666666666666
+Exp4_XGB_bilateral_augmented,Train218.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train219.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train22.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train220.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train221.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train222.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train223.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train224.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train225.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train226.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train227.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train228.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train229.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train23.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train230.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train231.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train232.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train233.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train234.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train235.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train236.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train237.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train238.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train239.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train24.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train240.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train241.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train242.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train243.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train244.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train245.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train246.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train247.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train248.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train249.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train25.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train250.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train251.csv,Normal,3,0,0.0
+Exp4_XGB_bilateral_augmented,Train252.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train253.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train254.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train255.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train256.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train257.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train258.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train259.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train26.csv,Side II,3,1,0.3333333333333333
+Exp4_XGB_bilateral_augmented,Train260.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train261.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train262.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train263.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train264.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train265.csv,Side II,3,0,0.0
+Exp4_XGB_bilateral_augmented,Train266.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train267.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train268.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train269.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train27.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train270.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train271.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train272.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train28.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train29.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train3.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train30.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train31.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train32.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train33.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train34.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train35.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train36.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train37.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train38.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train39.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train4.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train40.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train41.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train42.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train43.csv,Side II,3,2,0.6666666666666666
+Exp4_XGB_bilateral_augmented,Train44.csv,Normal,3,2,0.6666666666666666
+Exp4_XGB_bilateral_augmented,Train45.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train46.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train47.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train48.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train49.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train5.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train50.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train51.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train52.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train53.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train54.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train55.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train56.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train57.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train58.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train59.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train6.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train60.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train61.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train62.csv,Side I,3,1,0.3333333333333333
+Exp4_XGB_bilateral_augmented,Train63.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train64.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train65.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train66.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train67.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train68.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train69.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train7.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train70.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train71.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train72.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train73.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train74.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train75.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train76.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train77.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train78.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train79.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train8.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train80.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train81.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train82.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train83.csv,Side I,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train84.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train85.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train86.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train87.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train88.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train89.csv,Normal,3,1,0.3333333333333333
+Exp4_XGB_bilateral_augmented,Train9.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train90.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train91.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train92.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train93.csv,Side II,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train94.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train95.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train96.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train97.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train98.csv,Normal,3,3,1.0
+Exp4_XGB_bilateral_augmented,Train99.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train1.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train10.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train100.csv,Side I,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train101.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train102.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train103.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train104.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train105.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train106.csv,Side I,3,2,0.6666666666666666
+Exp5_XGB_bilateral_regularized,Train107.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train108.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train109.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train11.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train110.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train111.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train112.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train113.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train114.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train115.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train116.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train117.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train118.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train119.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train12.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train120.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train121.csv,Side I,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train122.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train123.csv,Normal,3,1,0.3333333333333333
+Exp5_XGB_bilateral_regularized,Train124.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train125.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train126.csv,Normal,3,1,0.3333333333333333
+Exp5_XGB_bilateral_regularized,Train127.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train128.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train129.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train13.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train130.csv,Normal,3,2,0.6666666666666666
+Exp5_XGB_bilateral_regularized,Train131.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train132.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train133.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train134.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train135.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train136.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train137.csv,Side I,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train138.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train139.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train14.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train140.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train141.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train142.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train143.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train144.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train145.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train146.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train147.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train148.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train149.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train15.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train150.csv,Side I,3,1,0.3333333333333333
+Exp5_XGB_bilateral_regularized,Train151.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train152.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train153.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train154.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train155.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train156.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train157.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train158.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train159.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train16.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train160.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train161.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train162.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train163.csv,Side I,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train164.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train165.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train166.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train167.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train168.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train169.csv,Normal,3,2,0.6666666666666666
+Exp5_XGB_bilateral_regularized,Train17.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train170.csv,Side I,3,2,0.6666666666666666
+Exp5_XGB_bilateral_regularized,Train171.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train172.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train173.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train174.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train175.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train176.csv,Normal,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train177.csv,Normal,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train178.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train179.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train18.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train180.csv,Side I,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train181.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train182.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train183.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train184.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train185.csv,Side I,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train186.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train187.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train188.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train189.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train19.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train190.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train191.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train192.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train193.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train194.csv,Side I,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train195.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train196.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train197.csv,Normal,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train198.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train199.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train2.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train20.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train200.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train201.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train202.csv,Side I,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train203.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train204.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train205.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train206.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train207.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train208.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train209.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train21.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train210.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train211.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train212.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train213.csv,Side I,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train214.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train215.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train216.csv,Side II,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train217.csv,Side II,3,2,0.6666666666666666
+Exp5_XGB_bilateral_regularized,Train218.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train219.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train22.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train220.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train221.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train222.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train223.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train224.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train225.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train226.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train227.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train228.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train229.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train23.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train230.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train231.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train232.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train233.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train234.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train235.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train236.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train237.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train238.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train239.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train24.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train240.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train241.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train242.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train243.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train244.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train245.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train246.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train247.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train248.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train249.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train25.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train250.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train251.csv,Normal,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train252.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train253.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train254.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train255.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train256.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train257.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train258.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train259.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train26.csv,Side II,3,1,0.3333333333333333
+Exp5_XGB_bilateral_regularized,Train260.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train261.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train262.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train263.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train264.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train265.csv,Side II,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train266.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train267.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train268.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train269.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train27.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train270.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train271.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train272.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train28.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train29.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train3.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train30.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train31.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train32.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train33.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train34.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train35.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train36.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train37.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train38.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train39.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train4.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train40.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train41.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train42.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train43.csv,Side II,3,2,0.6666666666666666
+Exp5_XGB_bilateral_regularized,Train44.csv,Normal,3,2,0.6666666666666666
+Exp5_XGB_bilateral_regularized,Train45.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train46.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train47.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train48.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train49.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train5.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train50.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train51.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train52.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train53.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train54.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train55.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train56.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train57.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train58.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train59.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train6.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train60.csv,Normal,3,1,0.3333333333333333
+Exp5_XGB_bilateral_regularized,Train61.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train62.csv,Side I,3,2,0.6666666666666666
+Exp5_XGB_bilateral_regularized,Train63.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train64.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train65.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train66.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train67.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train68.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train69.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train7.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train70.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train71.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train72.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train73.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train74.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train75.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train76.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train77.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train78.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train79.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train8.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train80.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train81.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train82.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train83.csv,Side I,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train84.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train85.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train86.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train87.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train88.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train89.csv,Normal,3,0,0.0
+Exp5_XGB_bilateral_regularized,Train9.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train90.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train91.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train92.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train93.csv,Side II,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train94.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train95.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train96.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train97.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train98.csv,Normal,3,3,1.0
+Exp5_XGB_bilateral_regularized,Train99.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train1.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train10.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train100.csv,Side I,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train101.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train102.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train103.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train104.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train105.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train106.csv,Side I,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train107.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train108.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train109.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train11.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train110.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train111.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train112.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train113.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train114.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train115.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train116.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train117.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train118.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train119.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train12.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train120.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train121.csv,Side I,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train122.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train123.csv,Normal,3,1,0.3333333333333333
+Exp6_Ensemble_XGB_ExtraTrees,Train124.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train125.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train126.csv,Normal,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train127.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train128.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train129.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train13.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train130.csv,Normal,3,1,0.3333333333333333
+Exp6_Ensemble_XGB_ExtraTrees,Train131.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train132.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train133.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train134.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train135.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train136.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train137.csv,Side I,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train138.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train139.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train14.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train140.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train141.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train142.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train143.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train144.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train145.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train146.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train147.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train148.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train149.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train15.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train150.csv,Side I,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train151.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train152.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train153.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train154.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train155.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train156.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train157.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train158.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train159.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train16.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train160.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train161.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train162.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train163.csv,Side I,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train164.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train165.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train166.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train167.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train168.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train169.csv,Normal,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train17.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train170.csv,Side I,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train171.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train172.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train173.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train174.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train175.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train176.csv,Normal,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train177.csv,Normal,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train178.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train179.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train18.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train180.csv,Side I,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train181.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train182.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train183.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train184.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train185.csv,Side I,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train186.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train187.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train188.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train189.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train19.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train190.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train191.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train192.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train193.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train194.csv,Side I,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train195.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train196.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train197.csv,Normal,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train198.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train199.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train2.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train20.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train200.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train201.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train202.csv,Side I,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train203.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train204.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train205.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train206.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train207.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train208.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train209.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train21.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train210.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train211.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train212.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train213.csv,Side I,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train214.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train215.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train216.csv,Side II,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train217.csv,Side II,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train218.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train219.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train22.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train220.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train221.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train222.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train223.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train224.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train225.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train226.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train227.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train228.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train229.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train23.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train230.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train231.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train232.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train233.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train234.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train235.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train236.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train237.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train238.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train239.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train24.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train240.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train241.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train242.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train243.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train244.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train245.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train246.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train247.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train248.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train249.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train25.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train250.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train251.csv,Normal,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train252.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train253.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train254.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train255.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train256.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train257.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train258.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train259.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train26.csv,Side II,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train260.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train261.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train262.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train263.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train264.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train265.csv,Side II,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train266.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train267.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train268.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train269.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train27.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train270.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train271.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train272.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train28.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train29.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train3.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train30.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train31.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train32.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train33.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train34.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train35.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train36.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train37.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train38.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train39.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train4.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train40.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train41.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train42.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train43.csv,Side II,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train44.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train45.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train46.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train47.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train48.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train49.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train5.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train50.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train51.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train52.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train53.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train54.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train55.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train56.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train57.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train58.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train59.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train6.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train60.csv,Normal,3,1,0.3333333333333333
+Exp6_Ensemble_XGB_ExtraTrees,Train61.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train62.csv,Side I,3,2,0.6666666666666666
+Exp6_Ensemble_XGB_ExtraTrees,Train63.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train64.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train65.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train66.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train67.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train68.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train69.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train7.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train70.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train71.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train72.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train73.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train74.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train75.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train76.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train77.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train78.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train79.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train8.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train80.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train81.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train82.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train83.csv,Side I,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train84.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train85.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train86.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train87.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train88.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train89.csv,Normal,3,0,0.0
+Exp6_Ensemble_XGB_ExtraTrees,Train9.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train90.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train91.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train92.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train93.csv,Side II,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train94.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train95.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train96.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train97.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train98.csv,Normal,3,3,1.0
+Exp6_Ensemble_XGB_ExtraTrees,Train99.csv,Normal,3,3,1.0

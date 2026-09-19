@@ -1,0 +1,7 @@
+**/*.pyc
+__pycache__/
+.venv/
+.git/
+.env
+storage/predictions/*.csv
+storage/predictions/*.zip

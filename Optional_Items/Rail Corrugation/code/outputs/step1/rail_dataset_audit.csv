@@ -1,0 +1,273 @@
+filename,label,rows,columns,missing_values,infinite_values,constant_channels,extreme_values,channels_with_extremes
+Train1.csv,Normal,10000,129,0,0,0,57119,58
+Train2.csv,Side II,10000,129,0,0,0,55264,96
+Train3.csv,Normal,10000,129,0,0,0,63800,75
+Train4.csv,Normal,10000,129,0,0,0,59683,87
+Train5.csv,Normal,10000,129,0,0,0,69426,105
+Train6.csv,Normal,10000,129,0,0,0,57809,78
+Train7.csv,Normal,10000,129,0,0,0,59140,92
+Train8.csv,Normal,10000,129,0,0,0,58035,83
+Train9.csv,Normal,10000,129,0,0,0,59742,79
+Train10.csv,Normal,10000,129,0,0,0,64253,66
+Train11.csv,Normal,10000,129,0,0,0,75093,105
+Train12.csv,Side II,10000,129,0,0,0,48339,76
+Train13.csv,Normal,10000,129,0,0,0,67435,103
+Train14.csv,Normal,10000,129,0,0,0,48840,72
+Train15.csv,Normal,10000,129,0,0,0,55438,78
+Train16.csv,Normal,10000,129,0,0,0,65539,71
+Train17.csv,Normal,10000,129,0,0,0,48147,79
+Train18.csv,Normal,10000,129,0,0,0,66861,68
+Train19.csv,Normal,10000,129,0,0,0,62202,93
+Train20.csv,Normal,10000,129,0,0,0,63387,72
+Train21.csv,Normal,10000,129,0,0,0,60602,68
+Train22.csv,Normal,10000,129,0,0,0,71247,87
+Train23.csv,Normal,10000,129,0,0,0,72668,99
+Train24.csv,Normal,10000,129,0,0,0,58438,61
+Train25.csv,Normal,10000,129,0,0,0,73980,106
+Train26.csv,Side II,10000,129,0,0,0,33155,63
+Train27.csv,Normal,10000,129,0,0,0,75948,105
+Train28.csv,Normal,10000,129,0,0,0,37084,77
+Train29.csv,Normal,10000,129,0,0,0,62071,79
+Train30.csv,Side II,10000,129,0,0,0,65501,77
+Train31.csv,Normal,10000,129,0,0,0,49858,79
+Train32.csv,Normal,10000,129,0,0,0,62638,62
+Train33.csv,Normal,10000,129,0,0,0,61286,68
+Train34.csv,Normal,10000,129,0,0,0,72423,80
+Train35.csv,Normal,10000,129,0,0,0,61617,76
+Train36.csv,Normal,10000,129,0,0,0,62164,64
+Train37.csv,Normal,10000,129,0,0,0,64826,69
+Train38.csv,Normal,10000,129,0,0,0,64759,99
+Train39.csv,Normal,10000,129,0,0,0,72131,63
+Train40.csv,Normal,10000,129,0,0,0,62510,62
+Train41.csv,Normal,10000,129,0,0,0,65622,79
+Train42.csv,Normal,10000,129,0,0,0,65563,77
+Train43.csv,Side II,10000,129,0,0,0,40757,70
+Train44.csv,Normal,10000,129,0,0,0,55510,75
+Train45.csv,Normal,10000,129,0,0,0,51753,70
+Train46.csv,Normal,10000,129,0,0,0,52568,75
+Train47.csv,Normal,10000,129,0,0,0,37249,62
+Train48.csv,Normal,10000,129,0,0,0,65918,82
+Train49.csv,Normal,10000,129,0,0,0,73417,101
+Train50.csv,Normal,10000,129,0,0,0,65354,75
+Train51.csv,Normal,10000,129,0,0,0,76619,109
+Train52.csv,Normal,10000,129,0,0,0,67949,67
+Train53.csv,Side II,10000,129,0,0,0,39493,74
+Train54.csv,Normal,10000,129,0,0,0,57833,87
+Train55.csv,Normal,10000,129,0,0,0,70976,106
+Train56.csv,Normal,10000,129,0,0,0,57072,71
+Train57.csv,Normal,10000,129,0,0,0,62864,71
+Train58.csv,Normal,10000,129,0,0,0,60537,71
+Train59.csv,Normal,10000,129,0,0,0,70775,89
+Train60.csv,Normal,10000,129,0,0,0,60761,83
+Train61.csv,Normal,10000,129,0,0,0,57756,67
+Train62.csv,Side I,10000,129,0,0,0,60006,76
+Train63.csv,Normal,10000,129,0,0,0,54787,65
+Train64.csv,Normal,10000,129,0,0,0,67012,80
+Train65.csv,Normal,10000,129,0,0,0,74283,77
+Train66.csv,Normal,10000,129,0,0,0,63644,84
+Train67.csv,Normal,10000,129,0,0,0,64010,70
+Train68.csv,Normal,10000,129,0,0,0,53320,87
+Train69.csv,Normal,10000,129,0,0,0,67914,100
+Train70.csv,Normal,10000,129,0,0,0,57109,80
+Train71.csv,Normal,10000,129,0,0,0,69598,75
+Train72.csv,Side II,10000,129,0,0,0,45241,65
+Train73.csv,Normal,10000,129,0,0,0,53340,67
+Train74.csv,Normal,10000,129,0,0,0,65807,89
+Train75.csv,Normal,10000,129,0,0,0,76679,106
+Train76.csv,Normal,10000,129,0,0,0,67591,73
+Train77.csv,Normal,10000,129,0,0,0,59435,70
+Train78.csv,Normal,10000,129,0,0,0,62588,96
+Train79.csv,Normal,10000,129,0,0,0,53695,78
+Train80.csv,Normal,10000,129,0,0,0,62818,63
+Train81.csv,Normal,10000,129,0,0,0,68537,81
+Train82.csv,Normal,10000,129,0,0,0,62304,69
+Train83.csv,Side I,10000,129,0,0,0,67044,76
+Train84.csv,Normal,10000,129,0,0,0,63034,69
+Train85.csv,Normal,10000,129,0,0,0,61549,77
+Train86.csv,Normal,10000,129,0,0,0,72878,101
+Train87.csv,Normal,10000,129,0,0,0,67130,68
+Train88.csv,Normal,10000,129,0,0,0,67356,90
+Train89.csv,Normal,10000,129,0,0,0,39665,59
+Train90.csv,Normal,10000,129,0,0,0,68275,97
+Train91.csv,Normal,10000,129,0,0,0,69719,70
+Train92.csv,Normal,10000,129,0,0,0,68133,96
+Train93.csv,Side II,10000,129,0,0,0,49748,73
+Train94.csv,Normal,10000,129,0,0,0,68501,72
+Train95.csv,Normal,10000,129,0,0,0,57513,68
+Train96.csv,Normal,10000,129,0,0,0,61860,69
+Train97.csv,Normal,10000,129,0,0,0,65561,82
+Train98.csv,Normal,10000,129,0,0,0,58059,71
+Train99.csv,Normal,10000,129,0,0,0,59790,82
+Train100.csv,Side I,10000,129,0,0,0,48310,78
+Train101.csv,Normal,10000,129,0,0,0,64685,86
+Train102.csv,Normal,10000,129,0,0,0,67386,67
+Train103.csv,Side II,10000,129,0,0,0,45109,69
+Train104.csv,Side II,10000,129,0,0,0,30063,71
+Train105.csv,Normal,10000,129,0,0,0,73878,70
+Train106.csv,Side I,10000,129,0,0,0,53055,82
+Train107.csv,Normal,10000,129,0,0,0,64124,96
+Train108.csv,Normal,10000,129,0,0,0,62085,91
+Train109.csv,Normal,10000,129,0,0,0,58327,64
+Train110.csv,Normal,10000,129,0,0,0,70333,75
+Train111.csv,Side II,10000,129,0,0,0,34298,78
+Train112.csv,Normal,10000,129,0,0,0,69910,98
+Train113.csv,Normal,10000,129,0,0,0,63258,82
+Train114.csv,Normal,10000,129,0,0,0,47168,82
+Train115.csv,Normal,10000,129,0,0,0,64124,96
+Train116.csv,Normal,10000,129,0,0,0,70424,87
+Train117.csv,Normal,10000,129,0,0,0,72793,80
+Train118.csv,Normal,10000,129,0,0,0,71884,101
+Train119.csv,Normal,10000,129,0,0,0,59168,69
+Train120.csv,Normal,10000,129,0,0,0,60032,67
+Train121.csv,Side I,10000,129,0,0,0,65779,72
+Train122.csv,Normal,10000,129,0,0,0,63257,86
+Train123.csv,Normal,10000,129,0,0,0,49092,88
+Train124.csv,Normal,10000,129,0,0,0,70800,67
+Train125.csv,Normal,10000,129,0,0,0,63974,77
+Train126.csv,Normal,10000,129,0,0,0,50871,81
+Train127.csv,Side II,10000,129,0,0,0,49763,77
+Train128.csv,Normal,10000,129,0,0,0,52446,81
+Train129.csv,Normal,10000,129,0,0,0,56716,83
+Train130.csv,Normal,10000,129,0,0,0,54830,97
+Train131.csv,Normal,10000,129,0,0,0,67936,66
+Train132.csv,Normal,10000,129,0,0,0,65251,86
+Train133.csv,Normal,10000,129,0,0,0,56129,80
+Train134.csv,Normal,10000,129,0,0,0,50210,78
+Train135.csv,Normal,10000,129,0,0,0,59468,64
+Train136.csv,Normal,10000,129,0,0,0,71951,83
+Train137.csv,Side I,10000,129,0,0,0,60367,73
+Train138.csv,Normal,10000,129,0,0,0,75802,108
+Train139.csv,Normal,10000,129,0,0,0,77420,93
+Train140.csv,Normal,10000,129,0,0,0,68841,75
+Train141.csv,Normal,10000,129,0,0,0,74818,72
+Train142.csv,Normal,10000,129,0,0,0,68493,73
+Train143.csv,Normal,10000,129,0,0,0,58608,88
+Train144.csv,Normal,10000,129,0,0,0,66912,68
+Train145.csv,Normal,10000,129,0,0,0,71758,79
+Train146.csv,Normal,10000,129,0,0,0,46587,97
+Train147.csv,Normal,10000,129,0,0,0,74315,65
+Train148.csv,Normal,10000,129,0,0,0,69013,100
+Train149.csv,Normal,10000,129,0,0,0,60806,86
+Train150.csv,Side I,10000,129,0,0,0,44267,80
+Train151.csv,Normal,10000,129,0,0,0,69801,75
+Train152.csv,Normal,10000,129,0,0,0,61152,71
+Train153.csv,Normal,10000,129,0,0,0,71608,89
+Train154.csv,Normal,10000,129,0,0,0,60424,85
+Train155.csv,Normal,10000,129,0,0,0,68077,100
+Train156.csv,Normal,10000,129,0,0,0,56976,58
+Train157.csv,Normal,10000,129,0,0,0,66365,101
+Train158.csv,Normal,10000,129,0,0,0,64891,90
+Train159.csv,Normal,10000,129,0,0,0,52454,60
+Train160.csv,Normal,10000,129,0,0,0,60474,87
+Train161.csv,Normal,10000,129,0,0,0,74535,98
+Train162.csv,Normal,10000,129,0,0,0,74527,109
+Train163.csv,Side I,10000,129,0,0,0,47176,73
+Train164.csv,Side II,10000,129,0,0,0,32361,62
+Train165.csv,Normal,10000,129,0,0,0,73804,107
+Train166.csv,Normal,10000,129,0,0,0,68990,67
+Train167.csv,Normal,10000,129,0,0,0,62518,70
+Train168.csv,Normal,10000,129,0,0,0,54258,86
+Train169.csv,Normal,10000,129,0,0,0,44836,70
+Train170.csv,Side I,10000,129,0,0,0,58888,63
+Train171.csv,Normal,10000,129,0,0,0,59909,74
+Train172.csv,Normal,10000,129,0,0,0,70647,74
+Train173.csv,Normal,10000,129,0,0,0,51702,76
+Train174.csv,Normal,10000,129,0,0,0,64912,76
+Train175.csv,Normal,10000,129,0,0,0,57184,85
+Train176.csv,Normal,10000,129,0,0,0,63043,77
+Train177.csv,Normal,10000,129,0,0,0,55902,81
+Train178.csv,Normal,10000,129,0,0,0,65675,98
+Train179.csv,Side II,10000,129,0,0,0,30938,72
+Train180.csv,Side I,10000,129,0,0,0,56133,85
+Train181.csv,Normal,10000,129,0,0,0,68806,102
+Train182.csv,Normal,10000,129,0,0,0,64553,76
+Train183.csv,Normal,10000,129,0,0,0,63984,80
+Train184.csv,Normal,10000,129,0,0,0,73097,94
+Train185.csv,Side I,10000,129,0,0,0,71021,82
+Train186.csv,Normal,10000,129,0,0,0,66265,88
+Train187.csv,Normal,10000,129,0,0,0,73804,107
+Train188.csv,Side II,10000,129,0,0,0,52073,81
+Train189.csv,Normal,10000,129,0,0,0,64180,63
+Train190.csv,Normal,10000,129,0,0,0,57786,84
+Train191.csv,Normal,10000,129,0,0,0,72794,104
+Train192.csv,Normal,10000,129,0,0,0,65803,94
+Train193.csv,Normal,10000,129,0,0,0,63259,97
+Train194.csv,Side I,10000,129,0,0,0,62828,95
+Train195.csv,Normal,10000,129,0,0,0,69136,73
+Train196.csv,Normal,10000,129,0,0,0,70608,99
+Train197.csv,Normal,10000,129,0,0,0,61617,75
+Train198.csv,Side II,10000,129,0,0,0,53971,66
+Train199.csv,Side II,10000,129,0,0,0,29101,77
+Train200.csv,Normal,10000,129,0,0,0,70986,79
+Train201.csv,Normal,10000,129,0,0,0,61515,90
+Train202.csv,Side I,10000,129,0,0,0,47485,101
+Train203.csv,Normal,10000,129,0,0,0,58938,75
+Train204.csv,Normal,10000,129,0,0,0,61335,74
+Train205.csv,Normal,10000,129,0,0,0,54003,79
+Train206.csv,Normal,10000,129,0,0,0,68835,99
+Train207.csv,Side II,10000,129,0,0,0,23719,73
+Train208.csv,Normal,10000,129,0,0,0,61893,87
+Train209.csv,Normal,10000,129,0,0,0,72312,83
+Train210.csv,Normal,10000,129,0,0,0,58428,78
+Train211.csv,Normal,10000,129,0,0,0,69478,87
+Train212.csv,Normal,10000,129,0,0,0,56308,94
+Train213.csv,Side I,10000,129,0,0,0,50311,68
+Train214.csv,Normal,10000,129,0,0,0,44137,69
+Train215.csv,Normal,10000,129,0,0,0,61197,81
+Train216.csv,Side II,10000,129,0,0,0,58995,74
+Train217.csv,Side II,10000,129,0,0,0,48736,79
+Train218.csv,Normal,10000,129,0,0,0,69933,67
+Train219.csv,Normal,10000,129,0,0,0,68545,97
+Train220.csv,Normal,10000,129,0,0,0,49721,88
+Train221.csv,Normal,10000,129,0,0,0,62298,92
+Train222.csv,Normal,10000,129,0,0,0,56822,91
+Train223.csv,Normal,10000,129,0,0,0,54054,62
+Train224.csv,Normal,10000,129,0,0,0,52061,91
+Train225.csv,Normal,10000,129,0,0,0,74606,87
+Train226.csv,Normal,10000,129,0,0,0,53098,87
+Train227.csv,Normal,10000,129,0,0,0,69342,67
+Train228.csv,Normal,10000,129,0,0,0,68987,101
+Train229.csv,Normal,10000,129,0,0,0,62385,93
+Train230.csv,Normal,10000,129,0,0,0,63880,73
+Train231.csv,Normal,10000,129,0,0,0,65210,98
+Train232.csv,Normal,10000,129,0,0,0,74450,66
+Train233.csv,Normal,10000,129,0,0,0,61505,77
+Train234.csv,Normal,10000,129,0,0,0,72297,90
+Train235.csv,Normal,10000,129,0,0,0,64347,74
+Train236.csv,Normal,10000,129,0,0,0,57538,91
+Train237.csv,Normal,10000,129,0,0,0,59969,80
+Train238.csv,Normal,10000,129,0,0,0,50098,58
+Train239.csv,Normal,10000,129,0,0,0,74394,106
+Train240.csv,Side II,10000,129,0,0,0,74291,74
+Train241.csv,Normal,10000,129,0,0,0,39544,90
+Train242.csv,Normal,10000,129,0,0,0,60786,66
+Train243.csv,Normal,10000,129,0,0,0,54454,94
+Train244.csv,Normal,10000,129,0,0,0,67802,105
+Train245.csv,Normal,10000,129,0,0,0,65445,102
+Train246.csv,Normal,10000,129,0,0,0,46438,86
+Train247.csv,Normal,10000,129,0,0,0,59598,65
+Train248.csv,Side II,10000,129,0,0,0,56693,67
+Train249.csv,Normal,10000,129,0,0,0,66400,99
+Train250.csv,Normal,10000,129,0,0,0,72341,61
+Train251.csv,Normal,10000,129,0,0,0,55597,93
+Train252.csv,Normal,10000,129,0,0,0,62544,88
+Train253.csv,Normal,10000,129,0,0,0,61496,72
+Train254.csv,Normal,10000,129,0,0,0,73696,68
+Train255.csv,Normal,10000,129,0,0,0,50054,99
+Train256.csv,Normal,10000,129,0,0,0,60100,70
+Train257.csv,Normal,10000,129,0,0,0,67354,100
+Train258.csv,Normal,10000,129,0,0,0,50043,77
+Train259.csv,Normal,10000,129,0,0,0,63121,100
+Train260.csv,Normal,10000,129,0,0,0,76348,72
+Train261.csv,Normal,10000,129,0,0,0,56057,67
+Train262.csv,Normal,10000,129,0,0,0,44269,72
+Train263.csv,Normal,10000,129,0,0,0,36414,62
+Train264.csv,Normal,10000,129,0,0,0,61924,73
+Train265.csv,Side II,10000,129,0,0,0,58614,76
+Train266.csv,Normal,10000,129,0,0,0,73232,71
+Train267.csv,Side II,10000,129,0,0,0,43128,68
+Train268.csv,Normal,10000,129,0,0,0,67300,68
+Train269.csv,Normal,10000,129,0,0,0,63967,73
+Train270.csv,Normal,10000,129,0,0,0,63502,67
+Train271.csv,Normal,10000,129,0,0,0,71681,84
+Train272.csv,Normal,10000,129,0,0,0,70931,74

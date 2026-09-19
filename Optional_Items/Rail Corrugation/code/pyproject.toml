@@ -1,0 +1,14 @@
+[project]
+name = "src"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.6",
+    "pathlib>=1.0.1",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "xgboost>=3.4.1",
+]
