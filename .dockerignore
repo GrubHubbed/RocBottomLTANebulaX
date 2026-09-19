@@ -1,0 +1,7 @@
+**/*.pyc
+__pycache__/
+.venv/
+.git/
+.env
+lta-smart-depot-dashboard/storage/predictions/*.csv
+lta-smart-depot-dashboard/storage/predictions/*.zip
